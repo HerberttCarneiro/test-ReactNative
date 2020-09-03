@@ -2,7 +2,7 @@
 
 Esse aplicativo é feito em react native, a proposta dele é para avalição da empresa contele.
 
-#O que foi utilizado?
+# O que foi utilizado?
 
 O aplicativo é bem simples, conta com uma lista de compras(refeições) separada por seções.
 
@@ -14,7 +14,7 @@ Para seguir o layout do figma proposto pela empresa utilizamos.
 - typescript
 - expo
 
-#Telas
+# Telas
 
 <p align="center">
   <img src="assets/expenses.png" width="350" title="hover text">
