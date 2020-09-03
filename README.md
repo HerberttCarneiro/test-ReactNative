@@ -7,6 +7,7 @@ Esse aplicativo é feito em react native, a proposta dele é para avalição da 
 O aplicativo é bem simples, conta com uma lista de compras(refeições) separada por seções.
 
 Para seguir o layout do figma proposto pela empresa utilizamos.
+
 - react-native-vector-icons: criar ícones com base no layout
 - icomoon: gerar fonte de ícones com os svgs fornecido
 - react navigation: navegar entre a tela de listagem e detalhes do pedido usando stack navigation
@@ -16,6 +17,6 @@ Para seguir o layout do figma proposto pela empresa utilizamos.
 #Telas
 
 <p align="center">
-  <img src="assets/splash.png" width="350" title="hover text">
-  <img src="assets/splash.png" width="350" alt="accessibility text">
+  <img src="assets/expenses.png" width="350" title="hover text">
+  <img src="assets/expensesDetails.png" width="350" alt="accessibility text">
 </p>
